@@ -2,6 +2,8 @@
 ---
 https://github.com/thoughtbot/bourbon
 
+https://www.bourbon.io/docs/latest/
+
 ```
 gem install bourbon
 bourbon install
